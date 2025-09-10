@@ -1,5 +1,4 @@
 # Online-Shopping-System-with-Exception-Handling
-# SmartCart – Exception-Proof Online Shopping System
 
 This is a Java console-based online shopping system called **SmartCart**.  
 It allows customers to browse products, add them to a cart, and proceed to checkout.  
@@ -50,4 +49,9 @@ No product with ID 4.
 Select a product to add to cart (enter ID, -1 to stop): 1
 Added Headphones to cart.
 
+Select a product to add to cart (enter ID, -1 to stop): -1
+
 Checkout now? (yes/no): yes
+
+Checking out...
+Error: Insufficient balance to complete the purchase.
