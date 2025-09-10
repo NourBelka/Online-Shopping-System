@@ -28,6 +28,16 @@ The system is designed to be **exception-proof** by handling input errors and bu
 
 ---
 
+## How to Run
+
+1. Download or clone this repository.  
+2. Make sure all `.java` files are in the same folder.  
+   You only need to compile and run `Store.java` — it will use the other classes automatically.  
+3. Open a terminal in the folder containing the `.java` files.  
+4. Compile the program:
+   ```bash
+   javac Store.java
+
 ## Sample Run
 
 ```text
