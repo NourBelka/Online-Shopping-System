@@ -2,7 +2,7 @@
 
 This is a Java console-based online shopping system called **SmartCart**.  
 It allows customers to browse products, add them to a cart, and proceed to checkout.  
-The system is designed to be **exception-proof** by handling input errors and business rule violations with Java exceptions.
+The system is designed to be exception-proof by handling input errors and business rule violations with Java exceptions.
 
 ---
 
@@ -29,15 +29,9 @@ The system is designed to be **exception-proof** by handling input errors and bu
 ---
 
 ## How to Run
-
-1. Download or clone this repository.  
-2. Make sure all `.java` files are in the same folder.  
-   You only need to compile and run `Store.java` — it will use the other classes automatically.  
-3. Open a terminal in the folder containing the `.java` files.  
-4. Compile the program:
-   ```bash
-   javac Store.java
-
+1. Clone this repository.  
+2. Open the project in your IDE (e.g., IntelliJ, Eclipse, or VS Code with Java extensions).  
+3. Run the `Store.java` file. 
 ## Sample Run
 
 ```text
