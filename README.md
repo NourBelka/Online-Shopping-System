@@ -1,4 +1,4 @@
-# Online-Shopping-System-with-Exception-Handling
+# Online Shopping System with Exception Handling
 
 This is a Java console-based online shopping system called **SmartCart**.  
 It allows customers to browse products, add them to a cart, and proceed to checkout.  
