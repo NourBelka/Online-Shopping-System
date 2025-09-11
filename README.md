@@ -37,7 +37,7 @@ The system is designed to be exception-proof by handling input errors and busine
 ```text
 Welcome to SmartCart!
 Enter your name: Alice
-Enter your balance: 50.0
+Enter your balance: 10.0
 
 Available products:
 1. Headphones - $25.99
@@ -47,8 +47,8 @@ Available products:
 Select a product to add to cart (enter ID, -1 to stop): abc
 Invalid input. Please enter a number.
 
-Select a product to add to cart (enter ID, -1 to stop): 4
-No product with ID 4.
+Select a product to add to cart (enter ID, -1 to stop): 5
+No product with ID 5.
 
 Select a product to add to cart (enter ID, -1 to stop): 1
 Added Headphones to cart.
