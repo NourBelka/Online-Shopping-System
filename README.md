@@ -1,37 +1,37 @@
 # Online Shopping System with Exception Handling
 
-This is a Java console-based online shopping system called **SmartCart**.  
-It allows customers to browse products, add them to a cart, and proceed to checkout.  
-The system is designed to be exception-proof by handling input errors with custom Java exceptions.
+This is a Java console-based online shopping system called **SmartCart**
+It allows customers to browse products, add them to a cart, and proceed to checkout
+The system is designed to be exception-proof by handling input errors with custom Java exceptions
 
 ---
 
 ## Features
-- Predefined products with ID, name, and price.
-- Customer with a balance that decreases when checking out.
-- Cart to hold products, calculate total, and handle checkout.
+- Predefined products with ID, name, and price
+- Customer with a balance that decreases when checking out
+- Cart to hold products, calculate total, and handle checkout
 - Exception handling:
-  - InputMismatchException for invalid user input.
-  - EmptyCartException when trying to checkout with no items.
-  - InsufficientBalanceException when the customer does not have enough balance.
+  - InputMismatchException for invalid user input
+  - EmptyCartException when trying to checkout with no items
+  - InsufficientBalanceException when the customer does not have enough balance
 
 ---
 
 ## Classes
-- **Product** → Represents a product with id, name, and price.  
-- **Customer** → Represents a customer with name and balance.  
-- **Cart** → Holds products, calculates total price, and checks out.  
+- **Product** → Represents a product with id, name, and price  
+- **Customer** → Represents a customer with name and balance 
+- **Cart** → Holds products, calculates total price, and checks out
 - **Custom Exceptions** →  
   - `EmptyCartException`  
   - `InsufficientBalanceException`  
-- **Store (Main Class)** → Runs the program and handles all input/output.
+- **Store (Main Class)** → Runs the program and handles all input/output
 
 ---
 
 ## How to Run
-1. Clone this repository.  
-2. Open the project in your IDE (e.g., IntelliJ, Eclipse, or VS Code with Java extensions).  
-3. Run the `Store.java` file. 
+1. Clone this repository
+2. Open the project in your IDE (e.g., IntelliJ, Eclipse, or VS Code with Java extensions)  
+3. Run the `Store.java` file
 
 ---
 
